@@ -5,10 +5,10 @@ public class HelloWorld {
         System.out.println("HelloWorld");
         // System.out.println("HelloWorld");
         int i = 2;
-        double d = 1.5;
-        double x = i*d + d;
+        int d = 1;
+        int x = d * i;
         System.out.println("Campus 0"+x);
-        // CampusBla
+        // Campus
         // HelloWorld
     }
 }
